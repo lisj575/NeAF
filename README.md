@@ -4,13 +4,13 @@
   <p align="center">
      <a><strong>Shujuan Li*</strong></a>
     ·
-    <a href="https://zzh2000.github.io"><strong>Junsheng Zhou*</strong></a>
+    <a href="https://junshengzhou.github.io/"><strong>Junsheng Zhou*</strong></a>
     ·
-    <a href="https://pengsongyou.github.io"><strong>Baorui Ma*</strong></a>
+    <a href="https://mabaorui.github.io/"><strong>Baorui Ma*</strong></a>
     ·
-    <a href="https://zhpcui.github.io/"><strong>Yu-Shen Liu</strong></a>
+    <a href="https://yushen-liu.github.io/"><strong>Yu-Shen Liu</strong></a>
     ·
-    <a href="https://people.inf.ethz.ch/pomarc/"><strong>Zhizhong Han</strong></a>
+    <a href="https://h312h.github.io/"><strong>Zhizhong Han</strong></a>
 
   </p>
   
