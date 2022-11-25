@@ -6,7 +6,7 @@
     ·
     <a href="https://junshengzhou.github.io/"><strong>Junsheng Zhou*</strong></a>
     ·
-    <a href="https://mabaorui.github.io/"><strong>Baorui Ma*</strong></a>
+    <a href="https://mabaorui.github.io/"><strong>Baorui Ma</strong></a>
     ·
     <a href="https://yushen-liu.github.io/"><strong>Yu-Shen Liu</strong></a>
     ·
