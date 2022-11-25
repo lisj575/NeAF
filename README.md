@@ -6,14 +6,14 @@
     ·
     <a href="https://junshengzhou.github.io/"><strong>Junsheng Zhou*</strong></a>
     ·
-    <a href="https://mabaorui.github.io/"><strong>Baorui Ma</strong></a>
+    <a href="https://mabaorui.github.io/"><strong>Baorui Ma*</strong></a>
     ·
     <a href="https://yushen-liu.github.io/"><strong>Yu-Shen Liu</strong></a>
     ·
     <a href="https://h312h.github.io/"><strong>Zhizhong Han</strong></a>
 
   </p>
-  
+
   <h3 align="center"><a href="https://lisj575.github.io/NeAF/">Paper</a> | <a href="https://lisj575.github.io/NeAF/">Project Page</a></h3>
   <div align="center"></div>
 </p>
@@ -25,7 +25,10 @@
 ## Requirements
 - Install python dependencies:
 ```bash
-conda env create -f environment.yaml
+conda create -n NeAF python=3.7.11
+conda activate NeAF
+pip install torch==1.10.0+cu111 -f https://download.pytorch.org/whl/torch_stable.html
+pip install tensorboardX scipy scikit-learn
 ```
 
 
