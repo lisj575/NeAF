@@ -35,7 +35,8 @@ Please download PCPNet dataset at: <http://geometry.cs.ucl.ac.uk/projects/2018/p
 ## Test
 To evaluate NeAF, you can simply use the following command:
 ```python
-python run.py --mode test --indir /data/lisj/AdaFit/data/pclouds/ --name NeAF --test_epoch 900 --need_prediction 1 --checkpoints 5 --coarse_normal_num 10 --gpu 0 1
+python run.py --mode test --indir your_dataset_path --name NeAF --test_epoch 900 --need_prediction 1 --checkpoints 5 --coarse_normal_num 10 --gpu 0 1
+# Please change 'dataset_path' to your own path of the dataset
 ```
 
 ## Train
