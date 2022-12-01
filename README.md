@@ -13,7 +13,9 @@
     <a href="https://h312h.github.io/"><strong>Zhizhong Han</strong></a>
 
   </p>
-
+  
+  <p align="center"><strong>(* Equal Contribution)</strong></p>
+  
   <h3 align="center"><a href="https://lisj575.github.io/NeAF/">Paper</a> | <a href="https://lisj575.github.io/NeAF/">Project Page</a></h3>
   <div align="center"></div>
 </p>
@@ -34,6 +36,7 @@ pip install tensorboardX scipy scikit-learn
 
 ## Data preparation
 Please download PCPNet dataset at: <http://geometry.cs.ucl.ac.uk/projects/2018/pcpnet/>
+
 
 ## Test
 To evaluate NeAF, you can simply use the following command:
