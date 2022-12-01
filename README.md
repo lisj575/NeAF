@@ -16,6 +16,8 @@
   
   <p align="center"><strong>(* Equal Contribution)</strong></p>
   
+  
+  
   <h3 align="center"><a href="https://arxiv.org/pdf/2211.16869.pdf">Paper</a> | <a href="https://lisj575.github.io/NeAF/">Project Page</a></h3>
   <div align="center"></div>
 </p>
