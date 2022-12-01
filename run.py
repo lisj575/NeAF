@@ -170,11 +170,11 @@ def train_NeAF(opt):
     # load initial parameters
     if opt.load_param:
         print("Loading initial parameters")
-        AdaFit_model_path = 'ckpts/AdaFit_model_599.pth'
-        AdaFit_dict = torch.load(AdaFit_model_path)
+        base_model_path = 'init/base_model.pth'
+        base_dict = torch.load(base_model_path)
         model_dict = model.state_dict()
-        for k,v in AdaFit_dict.items():
-            model_dict[k] = AdaFit_dict[k]
+        for k,v in base_dict.items():
+            model_dict[k] = base_dict[k]
         model.load_state_dict(model_dict)
     
     device_id = []
