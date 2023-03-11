@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h1 align="center">NeAF: Learning Neural Angle Fields for Point Normal Estimation (AAAI 2023) </h1>
+  <h1 align="center">NeAF: Learning Neural Angle Fields for Point Normal Estimation (AAAI 2023 oral) </h1>
   <p align="center">
      <a><strong>Shujuan Li*</strong></a>
     ·
