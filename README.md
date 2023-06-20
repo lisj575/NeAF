@@ -37,6 +37,10 @@ pip install tensorboardX scipy scikit-learn
 Please download PCPNet dataset at: <http://geometry.cs.ucl.ac.uk/projects/2018/pcpnet/>
 
 
+The preprocessed data of SceneNN can be downloaded at:
+<https://drive.google.com/drive/folders/1JkL3PrYSZGylzIhXdL1hMKlxg6Idv88x?usp=drive_link>
+
+
 ## Test
 To evaluate NeAF, you can simply use the following command:
 ```python
