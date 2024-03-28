@@ -283,9 +283,6 @@ def train_NeAF(opt):
             log_string("saving model to file :{}".format('%s_model_%d.pth' % (opt.name, epoch)), log_file)
             torch.save(model.state_dict(), os.path.join(out_dir, '%s_model_%d.pth' % (opt.name, epoch)))
 
-
-        if ((opt.nepoch - epoch) <= 300 and epoch % 100 == 0) or ((opt.nepoch -1 - epoch) <= 30 and (opt.nepoch -1 - epoch) % 10 == 0):
-            coarse_normal_refinement(opt, epoch, model)
         
         
 
