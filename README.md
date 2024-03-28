@@ -58,9 +58,13 @@ python run.py --mode train --indir PCPNet_dataset_path --name NeAF --nepoch 1000
 ## Citation
 If you find our code or paper useful, please consider citing
 
-    @inproceedings{li2023NeAF,
-      title={NeAF: Learning Neural Angle Fields for Point Normal Estimation},
+    @inproceedings{li2023neaf,
+      title={Neaf: Learning neural angle fields for point normal estimation},
       author={Li, Shujuan and Zhou, Junsheng and Ma, Baorui and Liu, Yu-Shen and Han, Zhizhong},
-      booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+      booktitle={Proceedings of the AAAI conference on artificial intelligence},
+      volume={37},
+      number={1},
+      pages={1396--1404},
       year={2023}
     }
+
